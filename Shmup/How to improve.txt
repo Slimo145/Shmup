@@ -1,0 +1,7 @@
+1. Menu with settings
+2. Highscore
+3. Moving background
+4. Better music
+5. Bosses and different enemies
+6. More powerups
+7. Different explosions
